@@ -1,6 +1,17 @@
 ## Getting and Cleaning Data Project
 ## File update 10/25/2016 11:55AM
 
+### I am adding this line on 10/25/2016 12:01PM
+
+### New line added again directly from GitHub, simulate somebody else updating 10/25/16 12:05PM
+
+### New line added again from Win8 computer 10/25/16 2:20PM
+
+### Add line Win8 10/25/16 2:23PM
+### Line1
+
+
+
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 ### Overview
