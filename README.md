@@ -17,6 +17,8 @@
 ### Add line Win8 10/25/16 2:23PM
 ### Line1
 
+### 10/25/16 3:10PM Log
+
 
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
