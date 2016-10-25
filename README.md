@@ -3,6 +3,8 @@
 
 ### I am adding this line on 10/25/2016 12:01PM
 
+### More data is uypdated. 10/25/16 2:25PM directly in Github.
+
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
